@@ -1,2 +1,1 @@
-# AnthonyPortfolio.github.io
-My Portfolio Website
+# My Portfolio Website
